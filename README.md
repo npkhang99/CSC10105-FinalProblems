@@ -1,5 +1,5 @@
 # Solve status
-- [x] Bài 1
+- [x] Bài 1 ( Nlog(N) )
 - [ ] Bài 2
 - [ ] Bài 3
 - [ ] Bài 4
