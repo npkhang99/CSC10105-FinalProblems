@@ -36,7 +36,7 @@ Cảm ơn các bạn đã đóng góp.
 - [x] Bài 20
 - [x] Bài 21 (Chưa đủ tốt cho giới hạn đề)
 - [x] Bài 22
-- [ ] Bài 23
+- [x] Bài 23
 - [x] Bài 24
 
 # Credit
