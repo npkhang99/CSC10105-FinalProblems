@@ -31,7 +31,7 @@ Cảm ơn các bạn đã đóng góp.
 - [x] Bài 15 ( 3 solution từ O(N^3) -> O(N) )
 - [ ] Bài 16
 - [x] Bài 17
-- [ ] Bài 18
+- [x] Bài 18
 - [x] Bài 19
 - [ ] Bài 20
 - [x] Bài 21 (Chưa đủ tốt cho giới hạn đề)
