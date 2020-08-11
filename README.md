@@ -1,18 +1,20 @@
 # Đóng góp
+
 - Nếu bạn nào phát hiện bug thì có thể tạo một issue mới, và các bạn có thể cung cấp cho mình bộ test / mô tả lỗi code của nhóm cho nhóm mình biết.
 - Nếu bạn nào muốn đóng góp code thì có thể tạo một pull request để mình có thể review và merge.
 
 Cảm ơn mọi người đã theo dõi và đóng góp cho nhóm.
 
 Thay mặt Rạp Xiếc Trung Ương,
-- P4P's: Nguyễn Phúc Khang
-- Giảng Viên: Nguyễn Quý Toàn
-- Cancer: Nguyễn Lê Sang
-- WjBu: Nguyễn Văn Thiều
+- Nguyễn Phúc Khang
+- Nguyễn Quý Toàn
+- Nguyễn Lê Sang
+- Nguyễn Văn Thiều
 
 Cảm ơn các bạn đã đóng góp.
+
 # Solve status
-- [x] Bài 1 (Fixed | Credit bug: nhóm Đạt)
+- [x] Bài 1
 - [ ] Bài 2
 - [X] Bài 3 (tham khảo từ ín tờ nét)
 - [x] Bài 4 (tham khảo từ ín tờ nét)
@@ -36,3 +38,6 @@ Cảm ơn các bạn đã đóng góp.
 - [x] Bài 22
 - [ ] Bài 23
 - [ ] Bài 24
+
+# Credit
+- Bài 1: Bug - đếm thiếu | nhóm Đạt
