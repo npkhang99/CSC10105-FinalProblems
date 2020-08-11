@@ -16,7 +16,7 @@ Cảm ơn các bạn đã đóng góp.
 - [ ] Bài 2
 - [ ] Bài 3
 - [x] Bài 4 (Lấy nguyên bài tham khảo từ ín tờ nét)
-- [ ] Bài 5
+- [X] Bài 5 (Lấy nguyên bài tham khảo từ ín tờ nét)
 - [ ] Bài 6
 - [x] Bài 7
 - [x] Bài 8
