@@ -14,8 +14,7 @@ using namespace std;
 
 // The function finds four 
 // elements with given sum X 
-void findFourElements(
-    int arr[], int n, int X)
+void findFourElements(int arr[], int n, long long X)
 {
     // Store sums of all pairs 
     // in a hash table 
@@ -55,7 +54,7 @@ int main()
 {
     int arr[1000];
     int n;
-    int X;
+    long long X;
 
     cin >> n;
     for (int i = 0; i < n; ++i)
