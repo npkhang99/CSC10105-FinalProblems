@@ -51,4 +51,4 @@ int main()
     find3Numbers(A, arr_size, X); 
   
     return 0; 
-} 
+}
