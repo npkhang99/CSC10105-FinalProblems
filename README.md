@@ -9,6 +9,7 @@ Thay mặt Rạp Xiếc Trung Ương,
 - Giảng Viên: Nguyễn Quý Toàn
 - Cancer: Nguyễn Lê Sang
 - WjBu: Nguyễn Văn Thiều
+
 Cảm ơn các bạn đã đóng góp.
 # Solve status
 - [x] Bài 1 (Bug | Credit: nhóm Đạt)
