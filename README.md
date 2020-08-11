@@ -32,7 +32,7 @@ Cảm ơn các bạn đã đóng góp.
 - [ ] Bài 18
 - [x] Bài 19
 - [ ] Bài 20
-- [x] Bài 21
+- [x] Bài 21 (Chưa đủ tốt cho giới hạn đề bài)
 - [ ] Bài 22
 - [ ] Bài 23
 - [ ] Bài 24
