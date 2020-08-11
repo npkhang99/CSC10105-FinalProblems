@@ -19,7 +19,7 @@ Cảm ơn các bạn đã đóng góp.
 - [X] Bài 3 (tham khảo từ ín tờ nét)
 - [x] Bài 4 (tham khảo từ ín tờ nét)
 - [x] Bài 5 (tham khảo từ ín tờ nét)
-- [ ] Bài 6
+- [x] Bài 6 (chưa thỏa về độ phức tạp)
 - [x] Bài 7
 - [x] Bài 8
 - [x] Bài 9
