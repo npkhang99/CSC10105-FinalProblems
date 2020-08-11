@@ -12,7 +12,7 @@ Thay mặt Rạp Xiếc Trung Ương,
 
 Cảm ơn các bạn đã đóng góp.
 # Solve status
-- [x] Bài 1 (Bug | Credit: nhóm Đạt)
+- [x] Bài 1 (Fixed | Credit bug: nhóm Đạt)
 - [ ] Bài 2
 - [ ] Bài 3
 - [ ] Bài 4
