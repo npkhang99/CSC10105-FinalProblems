@@ -12,8 +12,6 @@ int main (){
     for (long long i = 0; i < n; i++) {
         cin >> a[i];   
     }
-
-    vector <long long> prefixSum(n);
     prefixSum[0] = a[0];
     for (long long i = 1; i < n; i++) {
         prefixSum[i] = prefixSum[i-1] + a[i]; 
