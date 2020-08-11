@@ -8,8 +8,6 @@ Thay mặt rạp xiếc trung ương, mình cảm ơn các bạn đã đóng gó
 
 Khang
 
-=================
-
 # Solve status
 - [x] Bài 1 (Bug | Credit: nhóm Đạt)
 - [ ] Bài 2
