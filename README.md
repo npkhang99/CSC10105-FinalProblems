@@ -29,7 +29,7 @@ Cảm ơn các bạn đã đóng góp.
 - [ ] Bài 13
 - [ ] Bài 14
 - [x] Bài 15 ( 3 solution từ O(N^3) -> O(N) )
-- [x] Bài 16 (N^2)
+- [x] Bài 16
 - [x] Bài 17
 - [x] Bài 18
 - [x] Bài 19
