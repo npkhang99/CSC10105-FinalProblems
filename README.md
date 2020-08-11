@@ -15,7 +15,7 @@ Cảm ơn các bạn đã đóng góp.
 - [x] Bài 1 (Fixed | Credit bug: nhóm Đạt)
 - [ ] Bài 2
 - [ ] Bài 3
-- [x] Bài 4
+- [x] Bài 4 (Lấy nguyên bài tham khảo từ ín tờ nét)
 - [ ] Bài 5
 - [ ] Bài 6
 - [x] Bài 7
