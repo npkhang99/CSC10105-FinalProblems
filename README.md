@@ -14,9 +14,9 @@ Cảm ơn các bạn đã đóng góp.
 # Solve status
 - [x] Bài 1 (Fixed | Credit bug: nhóm Đạt)
 - [ ] Bài 2
-- [X] Bài 3 (Lấy nguyên bài tham khảo từ ín tờ nét)
-- [x] Bài 4 (Lấy nguyên bài tham khảo từ ín tờ nét)
-- [ ] Bài 5
+- [X] Bài 3 (tham khảo từ ín tờ nét)
+- [x] Bài 4 (tham khảo từ ín tờ nét)
+- [x] Bài 5 (tham khảo từ ín tờ nét)
 - [ ] Bài 6
 - [x] Bài 7
 - [x] Bài 8
@@ -28,7 +28,7 @@ Cảm ơn các bạn đã đóng góp.
 - [ ] Bài 14
 - [x] Bài 15 ( 3 solution từ O(N^3) -> O(N) )
 - [ ] Bài 16
-- [ ] Bài 17
+- [x] Bài 17
 - [ ] Bài 18
 - [x] Bài 19
 - [ ] Bài 20
