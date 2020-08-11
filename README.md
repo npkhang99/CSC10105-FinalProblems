@@ -1,5 +1,17 @@
+# Đóng góp
+- Nếu bạn nào phát hiện bug thì có thể tạo một issue mới, và các bạn có thể cung cấp cho mình bộ test / mô tả lỗi code của nhóm cho nhóm mình biết.
+- Nếu bạn nào muốn đóng góp code thì có thể tạo một pull request để mình có thể review và merge.
+
+Cảm ơn mọi người đã theo dõi và đóng góp cho nhóm.
+
+Thay mặt rạp xiếc trung ương, mình cảm ơn các bạn đã đóng góp.
+
+Khang
+
+=================
+
 # Solve status
-- [x] Bài 1 (Bug)
+- [x] Bài 1 (Bug | Credit: nhóm Đạt)
 - [ ] Bài 2
 - [ ] Bài 3
 - [ ] Bài 4
