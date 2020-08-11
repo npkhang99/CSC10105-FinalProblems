@@ -18,9 +18,10 @@ bool operator<(const heap_element& lhs, const heap_element& rhs) {
 }
 
 bool check_and_insert(heap_element e, set<heap_element> &used, priority_queue<heap_element> &heap) {
-    // vì i phải khác j => điều kiện đầu tiên
-    // vì cặp (i, j) phải chưa được dùng => không có trong set nên set.find phải trả về iterator end của set đó => điều kiện thứ hai
-    if (e.i != e.j && used.find(e) == used.end()) {
+    // cặp (i, j) phải nằm trong mảng, mà i luôn nhỏ hơn j nên không cần phải check i < n => điều kiện 1
+    // vì i phải khác j => điều kiện thứ hai
+    // vì cặp (i, j) phải chưa được dùng => không có trong set nên set.find phải trả về iterator end của set đó => điều kiện thứ ba
+    if (e.j < n && e.i != e.j && used.find(e) == used.end()) {
         used.insert(e);
         heap.push(e);
         return true;
