@@ -14,9 +14,9 @@ Cảm ơn các bạn đã đóng góp.
 # Solve status
 - [x] Bài 1 (Fixed | Credit bug: nhóm Đạt)
 - [ ] Bài 2
-- [ ] Bài 3
+- [X] Bài 3 (Lấy nguyên bài tham khảo từ ín tờ nét)
 - [x] Bài 4 (Lấy nguyên bài tham khảo từ ín tờ nét)
-- [X] Bài 5 (Lấy nguyên bài tham khảo từ ín tờ nét)
+- [ ] Bài 5
 - [ ] Bài 6
 - [x] Bài 7
 - [x] Bài 8
