@@ -26,7 +26,7 @@ Cảm ơn các bạn đã đóng góp.
 - [x] Bài 12
 - [ ] Bài 13
 - [ ] Bài 14
-- [ ] Bài 15
+- [x] Bài 15 ( 3 solution từ O(N^3) -> O(N) )
 - [ ] Bài 16
 - [ ] Bài 17
 - [ ] Bài 18
