@@ -15,7 +15,7 @@ Cảm ơn các bạn đã đóng góp.
 
 # Solve status
 - [x] Bài 1
-- [ ] Bài 2
+- [x] Bài 2
 - [X] Bài 3 (tham khảo từ ín tờ nét)
 - [x] Bài 4 (tham khảo từ ín tờ nét)
 - [x] Bài 5 (tham khảo từ ín tờ nét)
