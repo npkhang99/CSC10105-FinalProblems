@@ -4,10 +4,12 @@
 
 Cảm ơn mọi người đã theo dõi và đóng góp cho nhóm.
 
-Thay mặt rạp xiếc trung ương, mình cảm ơn các bạn đã đóng góp.
-
-Khang
-
+Thay mặt Rạp Xiếc Trung Ương,
+  P4P's: Nguyễn Phúc Khang
+  Giảng Viên: Nguyễn Quý Toàn
+  Cancer: Nguyễn Lê Sang
+  WjBu: Nguyễn Văn Thiều
+Cảm ơn các bạn đã đóng góp.
 # Solve status
 - [x] Bài 1 (Bug | Credit: nhóm Đạt)
 - [ ] Bài 2
