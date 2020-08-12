@@ -45,6 +45,12 @@ int main (){
     // }
 
     // better
+
+    for (int i = 0; i < n; i++) {
+        cerr << prefixSum[i] << " ";
+    }
+    cerr << endl;
+
     map<long long, int> idx;
     for (int i = 0; i < n; i++) {
         if (idx.find(prefixSum[i]) != idx.end()) {
@@ -61,6 +67,6 @@ int main (){
     count = end - start;
 
     cout << count << endl;
-    cout << start << " " << endl;
+    cout << start << " " << end << endl;
     return 0;
 }
