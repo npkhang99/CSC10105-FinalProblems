@@ -35,12 +35,14 @@ int subArraySum(int arr[], int n, long long sum)
         // or
         // If curr_sum - sum already exists in map 
         // we have found a subarray with target sum 
-        if (curr_sum == sum || map.find(curr_sum - sum) != map.end())
+        if (curr_sum == sum)
         {
             ++count;
         }
+        if (map.find(curr_sum - sum) != map.end())
+            count += map[curr_sum];
 
-        map[curr_sum] = i;
+        map[curr_sum]++;
     }
 
     return count;
