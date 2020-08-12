@@ -9,14 +9,15 @@ int main (){
     long long n;
     cin >> n;
     vector <long long> a(n);
-    vector <long long > prefixSum(n);
+    vector <long long > prefixSum(n + 1);
     for (long long i = 0; i < n; i++) {
         cin >> a[i];   
     }
 
-    prefixSum[0] = a[0];
+    prefixSum[0] = 0;
+    prefixSum[1] = a[0];
     for (long long i = 1; i < n; i++) {
-        prefixSum[i] = prefixSum[i-1] + a[i]; 
+        prefixSum[i + 1] = prefixSum[i] + a[i]; 
     }
     long long count = 0, start  = 0, end = 0;
     //______O(N^3)_________//
@@ -46,18 +47,19 @@ int main (){
 
     // better
 
-    for (int i = 0; i < n; i++) {
+    for (int i = 0; i <= n; i++) {
         cerr << prefixSum[i] << " ";
     }
     cerr << endl;
 
     map<long long, int> idx;
-    for (int i = 0; i < n; i++) {
+    idx[0] = 0;
+    for (int i = 1; i <= n; i++) {
         if (idx.find(prefixSum[i]) != idx.end()) {
             int p = idx[prefixSum[i]];
             if (i - p > end - start) {
                 start = p;
-                end = i;
+                end = i - 1;
             }
         }
         else {
