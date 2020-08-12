@@ -1,15 +1,16 @@
 # Đóng góp
 
-- Nếu bạn nào phát hiện bug thì có thể tạo một issue mới, và các bạn có thể cung cấp cho mình bộ test / mô tả lỗi code của nhóm cho nhóm mình biết.
-- Nếu bạn nào muốn đóng góp code thì có thể tạo một pull request để mình có thể review và merge.
+- Nếu bạn nào phát hiện bug thì có thể tạo một issue mới hoặc cung cấp bộ test / mô tả lỗi code của nhóm cho nhóm mình biết.
+- Nếu bạn nào muốn đóng góp code thì có thể tạo một pull request để cùng thảo luận, review và merge.
+- Mọi thông tin liên hệ các bạn có thể gửi qua FB của Khang nếu muốn thảo luận.
 
 Cảm ơn mọi người đã theo dõi và đóng góp cho nhóm.
 
 Thay mặt Rạp Xiếc Trung Ương,
-- Nguyễn Phúc Khang
-- Nguyễn Quý Toàn
-- Nguyễn Lê Sang
-- Nguyễn Văn Thiều
+- Nguyễn Phúc Khang aka P4P
+- Nguyễn Quý Toàn aka TroGiang
+- Nguyễn Lê Sang aka Cancer
+- Nguyễn Văn Thiều aka Wjbu
 
 Cảm ơn các bạn đã đóng góp.
 
